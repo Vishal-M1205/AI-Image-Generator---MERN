@@ -6,7 +6,7 @@ An AI-powered image generation web application built using the **MERN stack** (M
 
 ## 🚀 Features
 - **User Authentication**  
-  - Secure sign-up and login using JWT and bcrypt
+  - Secure sign-up and login using JWT and bcrypt 
   - Passwords stored in hashed form for security
 - **AI Image Generation**  
   - Generate images from text prompts using an AI API
