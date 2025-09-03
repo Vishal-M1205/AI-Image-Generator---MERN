@@ -2,6 +2,8 @@
 
 An AI-powered image generation web application built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js) with **JWT authentication**, **bcrypt password hashing**, and **Tailwind CSS** for styling.
 
+<img src="client/public/vite.svg" alt="Screenshot" width="500">
+
 ---
 
 ## 🚀 Features
